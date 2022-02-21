@@ -2,12 +2,12 @@
 ---
 ## CleanSoftware
 
-Nome dos integrantes:
-Matheus Ventura Barbosa
-Mackson Rocha Mesquita
-Murilo Araujo Andrade
-Igor Vinícius Gonçalves de Souza
-Iago Emanuel Tresoldi dos Santos
-Vitor Ferreira de Souza
+### Nome dos integrantes:
+1. Matheus Ventura Barbosa
+2. Mackson Rocha Mesquita
+3. Murilo Araujo Andrade
+4. Igor Vinícius Gonçalves de Souza
+5. Iago Emanuel Tresoldi dos Santos
+6. Vitor Ferreira de Souza
 ---
 Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulador de resíduos nocivos).
