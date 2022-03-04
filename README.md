@@ -10,4 +10,6 @@
 5. Iago Emanuel Tresoldi dos Santos
 6. Vitor Ferreira de Souza
 ---
-Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulador de resíduos nocivos).
+Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulador de resíduos nocivos). 
+
+links para mais informações :
