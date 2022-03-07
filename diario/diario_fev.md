@@ -41,7 +41,7 @@ O responsável da Documentação, Mackson M., criou uma conta no site <i>GitHub<
 
 <center>
 
-![Logo](./Imagens/logo_fev.png)
+![Logo](./imagens/logo_fev.png)
 
 </center>
 
