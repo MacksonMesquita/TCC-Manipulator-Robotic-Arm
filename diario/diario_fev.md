@@ -28,7 +28,7 @@ O princípio de nossa pesquisa foi com foco na Garra e no Arduino,Também pesqui
 
 <center>
 
-![Arduino](./Imagens/arduino.jpg)
+![Arduino](./imagens/arduino.jpg)
 
 </center>
 
@@ -54,8 +54,8 @@ Conversamos com o prefessor que está nos instruindo na matéria do TCC e ele no
 
 <center>
 
-![Foto da Garra](./Imagens/garra01_fev.jpeg)
-![Foto da Garra](./Imagens/garra02_fev.jpeg)
+![Foto da Garra](./imagens/garra01_fev.jpeg)
+![Foto da Garra](./imagens/garra02_fev.jpeg)
 
 </center>
 
