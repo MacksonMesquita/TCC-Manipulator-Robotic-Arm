@@ -29,6 +29,11 @@ mesmo radioatividade em baixa escala. Isso deve-se ao fato de que colocando seus
 gos em prática, eles podem contrair doenças as quais não podem ser curadas ou, se pos-
 síveis, apenas com muito tratamento.
 
+"A geração de lixo hospitalar no Brasil aumentou 20% no mês de junho em comparação a igual período do ano passado." 
+diz estudo sobre o aumento de resíduos hospitalares após a pandemia, alem de cerca de 70% de despejos de outros materiais,
+isso mostra que com o forte crescimento desenfreado da globalização e o pós pandemia, a tendencia é aumentar ainda mais a escala desses despejos,
+contudo, com esse aumento, mais pessoas estarão colocando suas vidas em risco.
+
 Com uma base de conhecimento e dados comprováveis, acreditamos que nossa pesquisa pode-
 rá ajudar nesse quesito, transferindo a responsabilidade para uma máquina que pode fa-
 cilmente manipular os sobejos, diminuindo consideravelmente o risco na perda de vidas
