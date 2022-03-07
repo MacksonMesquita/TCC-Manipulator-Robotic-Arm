@@ -37,6 +37,6 @@ ciclagem ou despojamento. Logo os motivos foram inspirados na melhora do trabalh
 uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de contato.
 </pre>
 
-link (Diário de Bordo): [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/Di%C3%A1rio%20de%20Bordo%202.0.md)
+link (Diário de Bordo): [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/diario/diario_fev.md)
 
 <hr>
