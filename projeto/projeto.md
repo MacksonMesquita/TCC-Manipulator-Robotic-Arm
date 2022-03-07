@@ -1,8 +1,6 @@
 <meta charset="UTF-8">
 <hr>
-~~~
 <h1 style="font-family:verdana; text-align:center; background-color:tomato; color:white">- Braço Robótico -</h1>
-~~~
 <hr>
 
 
