@@ -15,7 +15,7 @@ Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulad
 
 ## Nomes dos integrantes:                            
 
-* Mackson Mesquita 
+* Mackson da Rocha Mesquita
 
 * Matheus Ventura Barbosa                    
 
