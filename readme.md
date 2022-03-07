@@ -42,7 +42,7 @@ Tais resíduos como lixos hospitalares por exemplo, podem ser muito perigosos e 
 
 Para mais informações a cerca do projeto, acesse o link abaixo:
 
-Para acesar a página do projeto [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/Projeto%20Bra%C3%A7o%20Robotico%202.0.md)
+Para acesar a página do projeto [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/projeto/projeto.md)
 
 Para acessar o Diário de Bordo [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/diario/diario_fev.md)                    
 
