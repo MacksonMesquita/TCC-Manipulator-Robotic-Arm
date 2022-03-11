@@ -5,7 +5,7 @@
 
 <center>
 
-![logo](./diario/Imagens/logo_fev.png)
+![logo](./diario/imagens/logo_fev.png)
 
 </center>
 
