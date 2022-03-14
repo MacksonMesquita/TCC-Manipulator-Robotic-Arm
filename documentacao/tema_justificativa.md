@@ -1,8 +1,6 @@
 ---
 # **Justificativa do Tema**
 ---
----
----
 
  Embora o mundo esteja crescendo de forma desorganizada e mal distribuída, é inegável que temos visto grandes avanços tecnológicos os quais vem nos ajudando cada vez mais nesse meio e em muitos outros, a globalização vem afetando de forma incisiva o mundo inteiro. Com novas tecnologias, novas ciências e novas formas de se reinventar, é de costume “o velho” ficar para trás, acumulando mais e mais lixos ao longo do tempo, mas embora esse meio seja apenas um exemplo, não podemos descartar que em muitos outros como o meio farmacêutico e hospitalar, muitos resíduos são produzidos todos os anos e descartados muitas vezes de forma inadequada.
 
