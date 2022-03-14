@@ -2,7 +2,7 @@
 # **Justificativa do Tema**
 ---
 
- Embora o mundo esteja crescendo de forma desorganizada e mal distribuída, é inegável que temos visto grandes avanços tecnológicos os quais vem nos ajudando cada vez mais nesse meio e em muitos outros, a globalização vem afetando de forma incisiva o mundo inteiro. Com novas tecnologias, novas ciências e novas formas de se reinventar, é de costume “o velho” ficar para trás, acumulando mais e mais lixos ao longo do tempo, mas embora esse meio seja apenas um exemplo, não podemos descartar que em muitos outros como o meio farmacêutico e hospitalar, muitos resíduos são produzidos todos os anos e descartados muitas vezes de forma inadequada.
+ Embora o mundo esteja crescendo de forma desorganizada e mal distribuída, é inegável que temos visto grandes avanços tecnológicos os quais vem nos ajudando cada vez mais nesse meio e em muitos outros, a globalização vem afetando de forma incisiva o mundo inteiro. Com novas tecnologias, novas ciências e novas formas de se reinventar, é de costume *“o velho”* ficar para trás, acumulando mais e mais lixos ao longo do tempo, mas embora esse meio seja apenas um exemplo, não podemos descartar que em muitos outros como o meio farmacêutico e hospitalar, muitos resíduos são produzidos todos os anos e descartados muitas vezes de forma inadequada.
 
  Segundas fontes da *“agenciabrasil.ebc.com.br”*, anualmente, o Brasil produz cerca de 253 mil toneladas desse tipo de resíduo; referindo-se ao gerado em hospitais e farmácias, contudo uma das áreas a ser observada é a área da manipulação, na qual pessoas conduzem o lixo até locais de despejos, essas pessoas muitas das vezes não possuem equipamentos adequados para a realização desse trabalho, colocando suas vidas em risco ao manipular os mesmos.
 
