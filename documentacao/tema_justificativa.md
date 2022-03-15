@@ -7,7 +7,7 @@
 ___
 
 ![lixos](.diario/imagens/lixo1.png)
-![lixos](.diario/imagens/lixo2.png)
+![lixo](.diario/imagens/lixo2.png)
 
 ___
 
