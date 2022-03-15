@@ -7,7 +7,7 @@
 ___
 
 ![lixos](.documentacao/lixo1.png)
-![lixo](.documentacao/lixo2.png)
+![lixos](.documentacao/lixo2.png)
 
 ___
 
