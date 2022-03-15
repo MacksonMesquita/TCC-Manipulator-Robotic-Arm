@@ -8,7 +8,7 @@ ___
 
 ![lixos](.documentacao/lixo1.png)
 ![lixos](.documentacao/lixo2.png)
-
+![logo](./documentacao/lixo1.png)
 ___
 
  Segundo as fontes do site [agenciabrasil](agenciabrasil.ebc.com.br), anualmente, o Brasil produz cerca de 253 mil toneladas desse tipo de resíduo; referindo-se ao gerado em hospitais e farmácias, contudo uma das áreas a ser observada é a área da manipulação, na qual pessoas conduzem o lixo até locais de despejos, essas pessoas muitas das vezes não possuem equipamentos adequados para a realização desse trabalho, colocando suas vidas em risco ao manipular os mesmos.
