@@ -44,5 +44,5 @@ Para mais informações a cerca do projeto, acesse o link abaixo:
 
 Para acesar a página do Projeto [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/projeto/projeto.md)
 
-Para acessar o Diário de Bordo [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/diario/diario_fev.md)                    
+Para acessar o Diário de Bordo [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/tree/main/diario)                     
 
