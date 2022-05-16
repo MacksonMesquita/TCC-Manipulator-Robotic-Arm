@@ -1,6 +1,6 @@
-# Diario de Bordo
+# Diário de Bordo
 
-Clique abaixo para acessar os diarios dos meses respectivamente:
+Clique abaixo para acessar os diários dos meses respectivamente:
 
 ---
 
