@@ -44,6 +44,8 @@ uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de con
 </pre>
 
 Link (Página Inicial): [clique aqui](./readme.md)
+
+
 Link (Diário de Bordo): [clique aqui](./diario/menu_diario.md)
 
 <hr>
