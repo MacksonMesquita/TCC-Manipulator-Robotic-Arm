@@ -46,3 +46,8 @@ Como resultado de nosso trabalho, também precisamos atualizar nossos documentos
 ### Apresentação do trabalho:
 
 No dia 28 de março, realizamos uma apresentação para o professor e para os outros representantes de seus respectivos projetos, apresentando o que tínhamos criado até o momento em questão.
+
+---
+
+Voltar para os diarios: [clique aqui](./menu_diario.md)
+
