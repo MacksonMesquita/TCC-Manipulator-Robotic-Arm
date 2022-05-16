@@ -13,7 +13,7 @@ Para acesar a página do Projeto [clique aqui](./projeto/projeto.md)
 
 <center>
 
-![logo](./diario/imagens/logo_fev.png)
+![logo](./diario/imagens/logo_icon.png)
 
 </center>
 
