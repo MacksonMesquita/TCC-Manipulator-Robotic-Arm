@@ -4,8 +4,8 @@ Clique abaixo para acessar os diarios dos meses respectivamente:
 
 ---
 
-**Fevereiro** [clique aqui](./diario/diario_fev.md)
+**Fevereiro** [clique aqui](./diario_fev.md)
 
-**Março** [clique aqui](./diario/diario_mar.md)
+**Março** [clique aqui](./diario_mar.md)
 
-**Abril** [clique aqui](./diario/diario_abr.md)
+**Abril** [clique aqui](./diario_abr.md)
