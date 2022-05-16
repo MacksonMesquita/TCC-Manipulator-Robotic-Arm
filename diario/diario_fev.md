@@ -66,3 +66,5 @@ Obs.: É importante lembrar que é apenas um protótipo e por isso não estamos 
 Como citado anteriormente, teremos que trocar a placa por um <i>Arduino</i> e interligá-lo com a garra utilizando a linguagem Python.
 
 ---
+
+Voltar para os diarios: [clique aqui](./menu_diario.md)
