@@ -43,7 +43,7 @@ ciclagem ou despojamento. Logo os motivos foram inspirados na melhora do trabalh
 uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de contato.
 </pre>
 
-Link (Página Inicial): [clique aqui]()
-Link (Diário de Bordo): [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/diario/menu_diario.md)
+Link (Página Inicial): [clique aqui](./readme.md)
+Link (Diário de Bordo): [clique aqui](./diario/menu_diario.md)
 
 <hr>
