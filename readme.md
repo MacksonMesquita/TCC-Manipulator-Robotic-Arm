@@ -1,6 +1,14 @@
 # TCC manipulador de residuos nocivos 
 ---
 
+Para mais informações a cerca do projeto, acesse o link abaixo:
+
+Para acessar o Diário de Bordo [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/tree/main/diario)
+
+Para acesar a página do Projeto [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/projeto/projeto.md)
+
+---
+
 ## Logotipo do grupo:
 
 <center>
@@ -38,11 +46,3 @@ assim, um braço robótico e autônomo (mas que também pode ser controlado) par
 de resíduos muito específicos.
 
 Tais resíduos como lixos hospitalares por exemplo, podem ser muito perigosos e nocivos a saúde pois apresentam alto indice de contaminação. Esse projeto entra pra suprir essa necessidade, ajudando a diminuir os riscos com tecnologia e responsabilidade.              
-
-
-Para mais informações a cerca do projeto, acesse o link abaixo:
-
-Para acesar a página do Projeto [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/blob/main/projeto/projeto.md)
-
-Para acessar o Diário de Bordo [clique aqui](https://github.com/AlunoMackson/TCCManipulador-de-Residuos-Nocivos/tree/main/diario)                     
-
