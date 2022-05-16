@@ -67,4 +67,4 @@ Como citado anteriormente, teremos que trocar a placa por um <i>Arduino</i> e in
 
 ---
 
-Voltar para os diarios: [clique aqui](./menu_diario.md)
+Voltar para os diários: [clique aqui](./menu_diario.md)
