@@ -1,4 +1,4 @@
-# Diario de Bordo
+# Diário de Bordo
 
 ---
 ## Fevereiro:
