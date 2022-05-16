@@ -47,6 +47,8 @@ de resíduos muito específicos.
 
 Tais resíduos como lixos hospitalares por exemplo, podem ser muito perigosos e nocivos a saúde pois apresentam alto indice de contaminação. Esse projeto entra pra suprir essa necessidade, ajudando a diminuir os riscos com tecnologia e responsabilidade.
 
+---
+
 Visando a situação atual do aumento do número de resíduos nocivos vem crescendo de forma alarmante, seguindo este conceito, realizamos um estudo embasado numa forma de intervir nesse meio.
 No terceiro ano letivo da escola de ensino técnico integrado ao médio do estado de São Paulo ETEC Rosa Perrone Scavone, desenvolvemos como forma de consolidar o ensino, um braço robótico controlável que entra nesse meio, justamente para tentar encontrar uma forma de elucidar o quesito. 
 O braço terá como principal objetivo, manipular remotamente e com segurança os resíduos indesejáveis pelo usuário atendendo a necessidade eminente de limpeza e despojos dos mesmos. Os manipuladores robóticos são constantemente utilizados para a realização de várias tarefas, principalmente nas indústrias, que utilizam muito a tecnologia para a automação de sistemas e tarefas perigosas realizadas por pessoas comuns, nesse caso sempre se obtém uma melhora na qualidade dos produtos, agilidade, confiabilidade e precisão das tarefas empregadas. 
