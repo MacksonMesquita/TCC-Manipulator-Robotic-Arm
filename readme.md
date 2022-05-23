@@ -3,11 +3,11 @@
 
 Para mais informações a cerca do projeto, acesse o link abaixo:
 
-Para acessar o Diário de Bordo [clique aqui](./diario/menu_diario.md)
+Acessar o [Diário de Bordo](./diario/menu_diario.md)
 
-Para acessar a Página do Projeto [clique aqui](./projeto/projeto.md)
+Acessar a [Página do Projeto](./projeto/projeto.md)
 
-Para acessar a Página de Referências [clique aqui](./documentacao/referencias.md)
+Acessar a [Página de Referências](./documentacao/referencias.md)
 
 ---
 
