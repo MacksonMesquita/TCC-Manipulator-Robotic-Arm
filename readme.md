@@ -35,7 +35,7 @@ Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulad
 
 * Vitor Ferreira de Souza 
 
-* Igor Ferreira Gonçalves
+* Igor Vinicius Gonçalves de Souza
 
 ---
 
