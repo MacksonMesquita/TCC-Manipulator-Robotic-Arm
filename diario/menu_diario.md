@@ -10,6 +10,8 @@ Clique abaixo para acessar os diários dos meses respectivamente:
 
 [**Abril**](./diario_abr.md)
 
+[**Maio**](./diario_mai.md)
+
 ---
 
 [Voltar para a página inicial](/readme.md)
