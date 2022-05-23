@@ -26,3 +26,8 @@ MANCILHA, Thiago Dias et al. ROBÔ COLETOR DE RESÍDUOS, CONTROLADO POR COMPUTAD
 
 
 GENIVAL, A. et al. O braço robótico como ferramenta interdisciplinar. http://sistemaolimpo.org/midias/uploads/7cd05ca2e7bf2981ca931606c94c33d9.pdf Acessado em, v. 13, n. 08, p. 2018, 2018.
+
+---
+
+[Voltar para a página inicial](/readme.md)
+
