@@ -65,5 +65,7 @@ Com a intenção de realizar essa tarefa, o grupo incluiu as várias tecnologias
 
 Referências  
 PITASSI, Claudio et al. A cirurgia robótica nas organizações públicas de saúde: O caso do instituto nacional do câncer (inca). Administração Pública e Gestão Social, v. 8, n. 3, p. 187-197, 2016.
+
+
 Thiago Dias Mancilha1, Universidade do Vale do Paraíba/FCC, 2005.
 
