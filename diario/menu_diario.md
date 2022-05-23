@@ -4,11 +4,11 @@ Clique abaixo para acessar os diários dos meses respectivamente:
 
 ---
 
-**Fevereiro** [clique aqui](./diario_fev.md)
+**** [Fevereiro](./diario_fev.md)
 
-**Março** [clique aqui](./diario_mar.md)
+[**Março**](./diario_mar.md)
 
-**Abril** [clique aqui](./diario_abr.md)
+[**Abril**](./diario_abr.md)
 
 ---
 
