@@ -28,5 +28,5 @@ Na segunda semana, levantamos o orçamento das fontes, apenas por questões de p
 
 ---
 
-Voltar para os diários: [clique aqui](./menu_diario.md)
+[Voltar para os diários](./menu_diario.md)
 
