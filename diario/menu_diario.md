@@ -4,7 +4,7 @@ Clique abaixo para acessar os diários dos meses respectivamente:
 
 ---
 
-**** [Fevereiro](./diario_fev.md)
+[**Fevereiro**](./diario_fev.md)
 
 [**Março**](./diario_mar.md)
 
