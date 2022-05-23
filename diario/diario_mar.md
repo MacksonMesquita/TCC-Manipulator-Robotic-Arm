@@ -49,5 +49,5 @@ No dia 28 de março, realizamos uma apresentação para o professor e para os ou
 
 ---
 
-Voltar para os diários: [clique aqui](./menu_diario.md)
+[Voltar para os diários](./menu_diario.md)
 
