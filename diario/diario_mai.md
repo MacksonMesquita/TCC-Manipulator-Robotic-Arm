@@ -34,4 +34,4 @@ Durante a segunda quinzena, reformulações e atualizações na interface de int
 ---
 
 
-Voltar para os diários: [clique aqui](./menu_diario.md)                                          
+[Voltar para os diários](./menu_diario.md)                                          
