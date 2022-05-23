@@ -46,6 +46,4 @@ uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de con
 
 <hr>
 
----
-
 [voltar para a página inicial](/readme.md)
