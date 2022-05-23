@@ -12,4 +12,4 @@ Clique abaixo para acessar os diários dos meses respectivamente:
 
 ---
 
-[voltar para a página inicial](./readme.md)
+[voltar para a página inicial](/readme.md)
