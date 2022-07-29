@@ -12,6 +12,8 @@ Clique abaixo para acessar os diários dos meses respectivamente:
 
 [**Maio**](./diario_mai.md)
 
+[**Junho**](./diario_jun.md)
+
 ---
 
 [Voltar para a página inicial](/readme.md)
