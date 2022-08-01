@@ -37,12 +37,12 @@ cada servo possui uma numeração própria, se movimentando respectivamente da d
 <center>
 
 ![Braço Robotico](./imagens/braço-robotico.jpg)
-
-<img src="/imagens/braco-robotico.jpg" alt="Braço Robótico">
   
-  </center>
+</center>
 
 <h2>&#129154 Motores Selecionados:</h2>
+
+<center>
 
 ![Primeiro Motor](./imagens/motor1.jpg)
 
@@ -53,6 +53,8 @@ cada servo possui uma numeração própria, se movimentando respectivamente da d
 ![Quarto Motor](./imagens/motor4.jpg)
 
 ![Quinto Motor](./imagens/motor5.jpg)
+
+</center>
 
 ---
 
