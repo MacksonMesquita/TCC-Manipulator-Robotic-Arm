@@ -24,7 +24,7 @@ Entre todas as interações, nossos codigos vem sendo constantemente atualizados
 
 ### A Revelância dos exemplares com imagens 
 
-Muitas vezes,passamos por um momento de confusão, devido à isso precisamos exemplificar de maneira mais prática tudo o que estamos falando , para assim, atingirmos um público alvo mais facilmente, principalmente para as pessoas que são leigos na área. 
+Muitas vezes, passamos por um momento de confusão na hora de identificar apenas por palavras oque estamos querendo transmitir, devido à isso precisamos exemplificar de maneira mais prática tudo o que estamos falando, para assim, atingirmos um público alvo mais facilmente, principalmente para as pessoas que são leigas na área. 
 
 Com esse intuito, utilizamos o photoshop para ajudar na visualização das imagens do projeto. 
 
