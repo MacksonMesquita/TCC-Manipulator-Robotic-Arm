@@ -30,7 +30,7 @@ Dentre os varios temas e inumeras ideias de projetos, o assunto escolhido foi pa
 ## Semana 2:
 ### Pesquisa de Material:
 
-O princípio de nossa pesquisa foi com foco na Garra e no Arduino,Também pesquisamos formas de ligar o Arduino à linguagem de programação <i>Python</i> que será a que usaremos nesse projeto.
+O princípio de nossa pesquisa foi com foco na Garra e no Arduino, Também pesquisamos formas de ligar o Arduino à linguagem de programação <i>Python</i> que será a que usaremos nesse projeto pela sua diversidade de integração e facilidade de comunicação.
 
 <center>
 
