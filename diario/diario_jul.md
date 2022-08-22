@@ -42,12 +42,16 @@ cada servo possui uma numeração própria, se movimentando respectivamente da d
 Imagem ilustrada do primeiro motor da máquina
 
 ![Segundo Motor](./imagens/motor2.jpg)
+Imagem ilustrada do segundo motor da máquina
 
 ![Terceiro Motor](./imagens/motor3.jpg)
+Imagem ilustrada do terceiro motor da máquina
 
 ![Quarto Motor](./imagens/motor4.jpg)
+Imagem ilustrada do quarto motor da máquina
 
 ![Quinto Motor](./imagens/motor5.jpg)
+Imagem ilustrada do quinto motor da máquina
 
 ---
 
