@@ -43,7 +43,7 @@ O princípio de nossa pesquisa foi com foco na Garra e no Arduino, Também pesqu
 ## Semana 3:
 ### Criação da Página no GitHub:
 
-O responsável da Documentação, Mackson M., criou uma conta no site <i>GitHub</i>. Em seguida, colocamos as informações: nomes dos integrantes, tema escolhido, objetivo do trabalho e a logo do grupo.
+O responsável da Documentação, Mackson M., criou uma conta no site <i>GitHub</i> para relatar toda a tragetória do trabalho até a conclusão. Em seguida, colocamos as informações: nomes dos integrantes, tema escolhido, objetivo do trabalho e a logo do grupo.
 
 <center>
 
