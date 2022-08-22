@@ -56,7 +56,9 @@ O responsável da Documentação, Mackson M., criou uma conta no site <i>GitHub<
 ## Semana 4:
 ### Conseguindo Garra:
 
-Conversamos com o prefessor que está nos instruindo na matéria do TCC e ele nos disponibilizou uma garra que estava sem uso e disponível. Para concluírmos, faltava apenas: limpá-lo; trocar a antiga placa por um <i>Arduino</i>; e por fim, reprogamá-lo.
+Conversamos com o prefessor que está nos instruindo na matéria do TCC e ele nos disponibilizou uma garra que estava sem uso e disponível.
+
+Entretanto era preciso fazer a parte tecnica da programação, além de trocar as varias peças que estvam em um estado abaixo do desejado. 
 
 <center>
 
@@ -65,11 +67,8 @@ Conversamos com o prefessor que está nos instruindo na matéria do TCC e ele no
 
 </center>
 
-Obs.: É importante lembrar que é apenas um protótipo e por isso não estamos fazendo em uma escala maior.
+Obs.: É importante lembrar que é apenas um protótipo e por isso não estamos fazendo em uma escala maior, todavia, para uma maior funcionalidade e aproveitamento seria necessário uma maquina industrial.
 
-### Problemas Técnicos:
-
-Como citado anteriormente, teremos que trocar a placa por um <i>Arduino</i> e interligá-lo com a garra utilizando a linguagem Python.
 
 ---
 
