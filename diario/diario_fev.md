@@ -12,12 +12,18 @@
 ## Semana 1:
 ### Definição de Grupos:
 
-O grupo é formado por 6 integrantes e foi separado em duas partes:
-Documentação, integrado por Mackson M., Vitor F. e Murilo A. E a parte Técnica, integrada por Matheus V., Igor V. e Iago E. E também decidimos o nome do Grupo que é <i>Clean Software</i>.
+Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada iriam realizar. Desse modo o time foi decidio e será formado por 6 integrantes separados por dois  subgrupos:
+Documentação: integrado por Mackson M., Vitor F. e Murilo A. 
+
+E a parte Técnica: integrada por Matheus V., Igor V. e Iago E.
+
+Após isso, era necessario criar um nome que seria utilizado exclusivamente para se referir ao mesmo, evitando assim a repetição do titulo. 
+
+<i>Clean Software</i>.
 
 ### Escolha do Tema:
 
-O tema escolhido foi para ajudar o meio ambiente, utilizando uma garra robótica para coletar resíduos tóxicos principalmente lixo hospitalar. O objetivo desse robô é utilizá-lo para limpar sem o contato direto com algum resíduo prejudicial a saúde mantendo a distância e a proteção dos tóxicos.
+Dentre os varios temas e inumeras ideias de projetos, O assunto escolhido foi para ajudar o meio ambiente, utilizando uma garra robótica para coletar resíduos tóxicos principalmente lixo hospitalar. O objetivo desse robô é utilizá-lo para limpar sem o contato direto com algum resíduo prejudicial a saúde mantendo a distância e a proteção dos tóxicos.
 
 ---
 
