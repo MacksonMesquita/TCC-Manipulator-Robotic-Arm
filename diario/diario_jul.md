@@ -39,6 +39,7 @@ cada servo possui uma numeração própria, se movimentando respectivamente da d
 <h2>&#129154 Motores Selecionados:</h2>
 
 ![Primeiro Motor](./imagens/motor1.jpg)
+Imagem ilustrada do primeiro motor da máquina
 
 ![Segundo Motor](./imagens/motor2.jpg)
 
