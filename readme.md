@@ -39,7 +39,7 @@ Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulad
 
 ---
 
-## Projeto:
+## Resumo do Projeto:
 
 Quando se diz em Desenvolvimento de Sistemas, existem inúmeras áreas a qual podemos
 aplicar conhecimento e tecnologia a favor, tais áreas podem ser tanto físicas como digitais. Referente ao tema escolhido para a finalização do ano letivo e o TCC, nosso
