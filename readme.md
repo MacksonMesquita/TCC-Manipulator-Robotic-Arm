@@ -25,9 +25,9 @@ Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulad
 
 ## Nomes dos integrantes:                            
 
-* Mackson da Rocha Mesquita
+* Mackson da Rocha Mesquita - Gerente de documentação 
 
-* Matheus Ventura Barbosa                    
+* Matheus Ventura Barbosa - Gerente da programação e análise de desenvolvimento                   
 
 * Murilo Araujo Andrade 
 
