@@ -39,19 +39,19 @@ imagem ilustrada do projeto como um todo
 
 <h2>&#129154 Motores Selecionados:</h2>
 
-![Primeiro Motor](./imagens/motor1.jpg)
+<img src="./imagens/motor1.jpg" alt="motor1" width="250" height="250">
 Imagem ilustrada do primeiro motor da máquina
 
-![Segundo Motor](./imagens/motor2.jpg)
+<img src="./imagens/motor2.jpg" alt="motor2" width="250" height="250">
 Imagem ilustrada do segundo motor da máquina
 
-![Terceiro Motor](./imagens/motor3.jpg)
+<img src="./imagens/motor3.jpg" alt="motor3" width="250" height="250">
 Imagem ilustrada do terceiro motor da máquina
 
-![Quarto Motor](./imagens/motor4.jpg)
+<img src="./imagens/motor4.jpg" alt="motor4" width="250" height="250">
 Imagem ilustrada do quarto motor da máquina
 
-![Quinto Motor](./imagens/motor5.jpg)
+<img src="./imagens/motor5.jpg" alt="motor5" width="250" height="250">
 Imagem ilustrada do quinto motor da máquina
 
 ---
