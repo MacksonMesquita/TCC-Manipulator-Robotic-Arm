@@ -56,4 +56,4 @@ Imagem ilustrada do quinto motor da máquina
 
 ---
 
-Voltar para os diários: [clique aqui](./menu_diario.md)                                          
+[Voltar para os diários](./menu_diario.md)                                  
