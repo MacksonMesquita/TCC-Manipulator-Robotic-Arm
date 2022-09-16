@@ -41,4 +41,4 @@ Para finalizarmos o mês de Agosto, terminamos a nossa nos candidatamos para a f
 
 ---
 
-Voltar para os diários: [clique aqui](./menu_diario.md)
+[Voltar para os diários](./menu_diario.md)
