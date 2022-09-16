@@ -16,8 +16,8 @@ Usando a plataforma tinkercad, realizamos um exemplar digital da garra, utilizan
 
 <center>
 
-<img src="./imagens/arduinotk.png">
-![Arduíno](./imagens/arduinotk.png)
+<img src="./imagens/arduinotk.png" alt="arduinotk" width="380" height="380">
+
 
 </center>
 
