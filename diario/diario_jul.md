@@ -34,7 +34,7 @@ cada servo possui uma numeração própria, se movimentando respectivamente da d
 
 <h2>&#129154 Esquema Robô:</h2>
 
-![Braço Robotico](./imagens/braço-robotico.jpg)
+<img src="./imagens/braço-robotico.jpg" alt="braço-robotico" width="380" height="380">
 imagem ilustrada do projeto como um todo 
 
 <h2>&#129154 Motores Selecionados:</h2>
