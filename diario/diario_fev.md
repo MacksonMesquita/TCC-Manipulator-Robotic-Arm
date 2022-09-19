@@ -13,6 +13,7 @@
 ### Definição de Grupos:
 
 Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada um iriam realizar. Desse modo o time foi decidio e será formado por 3 integrantes, separados por dois subgrupos:
+
 Documentação: integrado por Mackson M. 
 
 E a parte Técnica: integrada por Matheus V., Igor V.
