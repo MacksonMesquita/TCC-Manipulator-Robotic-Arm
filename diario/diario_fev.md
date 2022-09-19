@@ -12,10 +12,10 @@
 ## Semana 1:
 ### Definição de Grupos:
 
-Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada um iriam realizar. Desse modo o time foi decidio e será formado por 6 integrantes, separados por dois  subgrupos:
-Documentação: integrado por Mackson M., Vitor F. e Murilo A. 
+Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada um iriam realizar. Desse modo o time foi decidio e será formado por 3 integrantes, separados por dois subgrupos:
+Documentação: integrado por Mackson M. 
 
-E a parte Técnica: integrada por Matheus V., Igor V. e Iago E.
+E a parte Técnica: integrada por Matheus V., Igor V.
 
 Após isso, era necessario criar um nome que seria utilizado exclusivamente para se referir ao mesmo, evitando assim a repetição do titulo. 
 
