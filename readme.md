@@ -29,12 +29,6 @@ Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulad
 
 * Matheus Ventura Barbosa - Gerente da programação e análise de desenvolvimento                   
 
-* Murilo Araujo Andrade 
-
-* Iago Emanuel Tresoldi 
-
-* Vitor Ferreira de Souza 
-
 * Igor Vinicius Gonçalves de Souza
 
 ---
