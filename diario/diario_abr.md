@@ -15,8 +15,9 @@
 Na primeira semana, tivemos como assentamento do projeto, a pesquisa e a realização de um levantamento técnico a cerca das fontes que precisariam ser utilizadas para a alimentação da placa controladora dos Servos Motores - <b>PCA9685</b> -, a qual deveria ser de 5-6V, tivemos êxito no quesito. Por fim, arrematamos a fase de testes concluindo que precisariamos de deck de pilhas AA ou AAA para fornecimento constante de energia para o driver (PCA9685).
 
 (Foto do pwm - pca)
-![Drive](./imagens/Drive1.jpg)
-![Drive](./imagens/Drive2.jpg)
+
+<img src="./imagens/Drive1.jpg" alt="Drive1" width="250" height="250">
+<img src="./imagens/Drive2.jpg" alt="Drive2" width="250" height="250">
 
 ---
 
