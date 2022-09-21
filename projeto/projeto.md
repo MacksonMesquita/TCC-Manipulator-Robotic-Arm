@@ -21,26 +21,11 @@ de resíduos muito específicos.
 <h2 style="font-family:verdana; background-color:tomato; color:white"">&#129154 Justificativa:</h2>
 
 <pre>
-A pesquisa a qual nos referimos, está relacionada no âmbito da saúde e pode ser muito
-útil para a manipulação de lixos, os quais são muito perigosos para serem retirados por
-pessoas. Muitos desses lixos contêm perigos constantes para os que fazem esse trabalho,
-e um bom exemplo disso são os lixos eletrônicos, resíduos hospitalares, e até
-mesmo radioatividade em baixa escala. Isso deve-se ao fato de que colocando seus empre-
-gos em prática, eles podem contrair doenças as quais não podem ser curadas ou, se pos-
-síveis, apenas com muito tratamento.
+A pesquisa a qual nos referimos, está relacionada no âmbito da saúde e pode ser muito útil para a manipulação de lixos, os quais são muito perigosos para serem retirados por pessoas. Muitos desses lixos contêm perigos constantes para os que fazem esse trabalho, e um bom exemplo disso são os lixos eletrônicos, resíduos hospitalares, e até mesmo radioatividade em baixa escala. Isso deve-se ao fato de que colocando seus empregos em prática, eles podem contrair doenças as quais não podem ser curadas ou, se possíveis, apenas com muito tratamento.
 
-"A geração de lixo hospitalar no Brasil aumentou 20% no mês de junho em comparação a igual período do ano passado." 
-diz estudo sobre o aumento de resíduos hospitalares após a pandemia, alem de cerca de 70% 
-de despejos de outros materiais, isso mostra que com o forte crescimento desenfreado da globalização
-e o pós pandemia, a tendencia é aumentar ainda mais a escala desses despejos, contudo, com esse aumento 
-mais pessoas estarão colocando suas vidas em risco.
+"A geração de lixo hospitalar no Brasil aumentou 20% no mês de junho em comparação a igual período do ano passado." diz estudo sobre o aumento de resíduos hospitalares após a pandemia, alem de cerca de 70% de despejos de outros materiais, isso mostra que com o forte crescimento desenfreado da globalização e o pós pandemia, a tendencia é aumentar ainda mais a escala desses despejos, contudo, com esse aumento mais pessoas estarão colocando suas vidas em risco.
 
-Com uma base de conhecimento e dados comprováveis, acreditamos que nossa pesquisa pode-
-rá ajudar nesse quesito, transferindo a responsabilidade para uma máquina que pode fa-
-cilmente manipular os sobejos, diminuindo consideravelmente o risco na perda de vidas
-humanas e facilitando também na separação dos mesmos, para aumentar a facilidade de re-
-ciclagem ou despojamento. Logo os motivos foram inspirados na melhora do trabalho e em
-uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de contato.
+Com uma base de conhecimento e dados comprováveis, acreditamos que nossa pesquisa poderá ajudar nesse quesito, transferindo a responsabilidade para uma máquina que pode facilmente manipular os sobejos, diminuindo consideravelmente o risco na perda de vidas humanas e facilitando também na separação dos mesmos, para aumentar a facilidade de reciclagem ou despojamento. Logo os motivos foram inspirados na melhora do trabalho e em uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de contato.
 </pre>
 
 
