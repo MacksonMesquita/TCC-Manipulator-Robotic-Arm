@@ -9,7 +9,7 @@ Imagem ilustrativa não condizente com a realidade
 
 &#129154 Projeto:
 
-<pre>  Quando se diz em Desenvolvimento de Sistemas, existem inúmeras áreas a qual podemos
+ Quando se diz em Desenvolvimento de Sistemas, existem inúmeras áreas a qual podemos
 aplicar conhecimento e tecnologia a favor, tais áreas podem ser tanto físicas como di-
 gitais. Referente ao tema escolhido para a finalização do ano letivo e o TCC, nosso
 grupo escolheu atuar na área da limpeza e saúde social, na coleta de lixo. Realizando
