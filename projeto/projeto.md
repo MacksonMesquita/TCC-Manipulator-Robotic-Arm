@@ -38,6 +38,7 @@ Canvas
 Como parte do nosso trabalho de conclusão de curso, nos inscrevemos na feira de ciências de bragança(Bragantec). 
 
 Onde fizemos um poster informativo, mas breve, a cerca do trabalho em questão.
+
 <img src="./imagens/poster.png" alt="poster" width="750" height="1000">
 
 
