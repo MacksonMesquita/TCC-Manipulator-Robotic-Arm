@@ -23,11 +23,13 @@ Com uma base de conhecimento e dados comprováveis, acreditamos que nossa pesqui
 
 <h2>&#129154 Canvas e Swot:</h2>
 
-<img src="./imagens/swot.jpg" alt="swot" width="250" height="250">
+<img src="./imagens/swot.png" alt="swot" width="250" height="250">
 SWOT
-<img src="./imagens/canvas1.jpg" alt="canvas1" width="250" height="250">
-<img src="./imagens/canvas2.jpg" alt="canvas2" width="250" height="250">
-<img src="./imagens/canvas3.jpg" alt="canvas3" width="250" height="250">
-<img src="./imagens/canvas4.jpg" alt="canvas4" width="250" height="250">
+<img src="./imagens/canvas1.png" alt="canvas1" width="250" height="250">
+<img src="./imagens/canvas2.png" alt="canvas2" width="250" height="250">
+<img src="./imagens/canvas3.png" alt="canvas3" width="250" height="250">
+<img src="./imagens/canvas4.png" alt="canvas4" width="250" height="250">
+Canvas
+
 
 [Voltar para a página inicial](/readme.md)
