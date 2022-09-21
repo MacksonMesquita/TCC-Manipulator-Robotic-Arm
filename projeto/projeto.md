@@ -21,5 +21,9 @@ A pesquisa a qual nos referimos, está relacionada no âmbito da saúde e pode s
 
 Com uma base de conhecimento e dados comprováveis, acreditamos que nossa pesquisa poderá ajudar nesse quesito, transferindo a responsabilidade para uma máquina que pode facilmente manipular os sobejos, diminuindo consideravelmente o risco na perda de vidas humanas e facilitando também na separação dos mesmos, para aumentar a facilidade de reciclagem ou despojamento. Logo os motivos foram inspirados na melhora do trabalho e em uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de contato.
 
+<h2>&#129154 Canvas e Swot:</h2>
+
+
+
 
 [Voltar para a página inicial](/readme.md)
