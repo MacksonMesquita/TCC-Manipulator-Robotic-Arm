@@ -33,7 +33,7 @@ Canvas
 
 <h2>&#129154 Poster:</h2>
 
-<img src="./imagens/poster.png" alt="poster" width="1080" height="1920">
+<img src="./imagens/poster.png" alt="poster" width="920" height="1000">
 
 
 [Voltar para a página inicial](/readme.md)
