@@ -31,5 +31,7 @@ Canvas
 <img src="./imagens/canvas2.png" alt="canvas2" width="300" height="250">
 <img src="./imagens/canvas3.png" alt="canvas3" width="300" height="250">
 
+<h2>&#129154 Poster:</h2>
+
 
 [Voltar para a página inicial](/readme.md)
