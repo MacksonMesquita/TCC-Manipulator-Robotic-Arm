@@ -7,17 +7,12 @@
 Imagem ilustrativa não condizente com a realidade
 
 
-&#129154 Projeto:
+<h2>&#129154 Projeto:</h2>
 
- Quando se diz em Desenvolvimento de Sistemas, existem inúmeras áreas a qual podemos
-aplicar conhecimento e tecnologia a favor, tais áreas podem ser tanto físicas como di-
-gitais. Referente ao tema escolhido para a finalização do ano letivo e o TCC, nosso
-grupo escolheu atuar na área da limpeza e saúde social, na coleta de lixo. Realizando
-assim, um braço robótico e autônomo (mas que também pode ser controlado) para a coleta
-de resíduos muito específicos.
+Quando se diz em Desenvolvimento de Sistemas, existem inúmeras áreas a qual podemos aplicar conhecimento e tecnologia a favor, tais áreas podem ser tanto físicas como digitais. Referente ao tema escolhido para a finalização do ano letivo e o TCC, nosso grupo escolheu atuar na área da limpeza e saúde social, na coleta de lixo. Realizando assim, um braço robótico e autônomo (mas que também pode ser controlado) para a coleta de resíduos muito específicos.
 
 
-&#129154 Justificativa:
+<h2>&#129154 Justificativa:</h2>
 
 
 A pesquisa a qual nos referimos, está relacionada no âmbito da saúde e pode ser muito útil para a manipulação de lixos, os quais são muito perigosos para serem retirados por pessoas. Muitos desses lixos contêm perigos constantes para os que fazem esse trabalho, e um bom exemplo disso são os lixos eletrônicos, resíduos hospitalares, e até mesmo radioatividade em baixa escala. Isso deve-se ao fato de que colocando seus empregos em prática, eles podem contrair doenças as quais não podem ser curadas ou, se possíveis, apenas com muito tratamento.
