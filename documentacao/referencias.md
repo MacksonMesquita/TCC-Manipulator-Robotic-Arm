@@ -37,6 +37,10 @@ BAJERSKI, Igor; ABELLA, Vinicius Dal Bó. Braço Robótico Com Controle Remoto B
 
 BONACORSO, Nelso Gauze. Desenvolvimento de um braço robótico portátil para a execução de soldagens automatizadas. Revista Técnico Científica do IFSC, 2014.
 
+-
+
+SOUZA, Geovane Mimoso; TORRES DELGADO, Martha Ximena; CRUZ, Tiago Xavier. Construção de um Braço Robótico Controlado a partir de um FPGA. In: Colloquium Exactarum. ISSN: 2178-8332. 2012. p. 01-16.
+
 ---
 
 [Voltar para a página inicial](/readme.md)
