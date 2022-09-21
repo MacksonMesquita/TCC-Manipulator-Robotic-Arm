@@ -27,13 +27,14 @@ Swot
 <img src="./imagens/swot.png" alt="swot" width="250" height="250">
 
 Canvas
-<img src="./imagens/canvas1.png" alt="canvas1" width="300" height="250">
-<img src="./imagens/canvas2.png" alt="canvas2" width="300" height="250">
-<img src="./imagens/canvas3.png" alt="canvas3" width="300" height="250">
+<img src="./imagens/canvas1.png" alt="canvas1" width="320" height="250">
+<img src="./imagens/canvas2.png" alt="canvas2" width="320" height="250">
+<img src="./imagens/canvas3.png" alt="canvas3" width="320" height="250">
 
 <h2>&#129154 Poster:</h2>
 
-<img src="./imagens/poster.png" alt="poster" width="820" height="1000">
+Como parte do nosso trabalho de conclusão de curso, nos inscrevemos na feira de ciências de bragança(Bragantec). Onde fizemos um poster informativo, mas breve, a cerca do trabalho em questão.
+<img src="./imagens/poster.png" alt="poster" width="800" height="1000">
 
 
 [Voltar para a página inicial](/readme.md)
