@@ -29,9 +29,9 @@ Swot
 
 Canvas
 
-<img src="./imagens/canvas1.png" alt="canvas1" width="320" height="250">
-<img src="./imagens/canvas2.png" alt="canvas2" width="320" height="250">
-<img src="./imagens/canvas3.png" alt="canvas3" width="320" height="250">
+<img src="./imagens/canvas1.png" alt="canvas1" width="350" height="250">
+<img src="./imagens/canvas2.png" alt="canvas2" width="350" height="250">
+<img src="./imagens/canvas3.png" alt="canvas3" width="350" height="250">
 
 <h2>&#129154 Poster:</h2>
 
