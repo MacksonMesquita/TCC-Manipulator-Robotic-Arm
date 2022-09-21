@@ -21,19 +21,19 @@ Com a intenção de realizar essa tarefa, o grupo incluiu as várias tecnologias
 Referências  
 PITASSI, Claudio et al. A cirurgia robótica nas organizações públicas de saúde: O caso do instituto nacional do câncer (inca). Administração Pública e Gestão Social, v. 8, n. 3, p. 187-197, 2016.
 
-
+-
 
 MANCILHA, Thiago Dias et al. ROBÔ COLETOR DE RESÍDUOS, CONTROLADO POR COMPUTADOR.
 
-
+-
 
 GENIVAL, A. et al. O braço robótico como ferramenta interdisciplinar. http://sistemaolimpo.org/midias/uploads/7cd05ca2e7bf2981ca931606c94c33d9.pdf Acessado em, v. 13, n. 08, p. 2018, 2018.
 
-
+-
 
 BAJERSKI, Igor; ABELLA, Vinicius Dal Bó. Braço Robótico Com Controle Remoto Bluetooth. Revista da Graduação, v. 3, n. 2, 2010.
 
-
+-
 
 BONACORSO, Nelso Gauze. Desenvolvimento de um braço robótico portátil para a execução de soldagens automatizadas. Revista Técnico Científica do IFSC, 2014.
 
