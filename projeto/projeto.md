@@ -21,6 +21,12 @@ A pesquisa a qual nos referimos, está relacionada no âmbito da saúde e pode s
 
 Com uma base de conhecimento e dados comprováveis, acreditamos que nossa pesquisa poderá ajudar nesse quesito, transferindo a responsabilidade para uma máquina que pode facilmente manipular os sobejos, diminuindo consideravelmente o risco na perda de vidas humanas e facilitando também na separação dos mesmos, para aumentar a facilidade de reciclagem ou despojamento. Logo os motivos foram inspirados na melhora do trabalho e em uma certa “deficiência”, logo que uma vez podem ser fatais esse tipo de contato.
 
+A automatização e saúde podem ser interligadas com o uso da tecnologia "[...] A robótica envolve uma tecnologia intimamente associada com a automação. A robótica industrial pode ser definida como uma área particular da automação na qual a máquina automática é projetada para substituir a mão de obra humana. As configurações de robôs utilizadas mais comumente na automação industrial incluem os robôs articulados, robôs SCARA, e os robôs cartesianos. No contexto da robótica geral, a maior parte dos robôs industriais seria categorizada como braços robóticos"
+
+Culminando com as pesquisas realizadas, principalmente durante a pandemia, os resíduos predominantemente hospitalares vem crescendo muito, concluindo-se que nossas pesquisas podem sim ser altamente valiosas para a área da saúde. “[...]Nas últimas décadas uma grande variedade de robôs cirúrgicos foi implantada em hospitais ao redor do mundo, principalmente no EUA. A partir de meados da década de 2000, o uso da robótica em tratamentos médicos atingiu um crescimento vertiginoso nos hospitais de referência, apesar das incertezas ainda existentes” (Pitassi, 2016).
+
+O robô em questão terá o objetivo de se movimentar e coletar os materiais nocivos. Como diz Mancilha (2005), um protótipo robótico é multifuncional, controlado por computador, pois consegue-se realizar esse tipo de tarefa que é perigoso para o contato humano. Com a intenção de realizar essa tarefa, o grupo incluiu as várias tecnologias utilizáveis no projeto, para a produção do braço agregamos as nossas tecnologias: Arduino, decks de pilha, fontes geradoras de energias, driver, peças metálicas, servos motores etc.
+
 <h2>&#129154 Canvas e Swot:</h2>
 
 Swot
