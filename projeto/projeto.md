@@ -25,10 +25,9 @@ Com uma base de conhecimento e dados comprováveis, acreditamos que nossa pesqui
 
 <img src="./imagens/swot.png" alt="swot" width="250" height="250">
 SWOT
-<img src="./imagens/canvas1.png" alt="canvas1" width="500" height="250">
-<img src="./imagens/canvas2.png" alt="canvas2" width="250" height="250">
-<img src="./imagens/canvas3.png" alt="canvas3" width="250" height="250">
-<img src="./imagens/canvas4.png" alt="canvas4" width="500" height="250">
+<img src="./imagens/canvas1.png" alt="canvas1" width="300" height="250">
+<img src="./imagens/canvas2.png" alt="canvas2" width="300" height="250">
+<img src="./imagens/canvas3.png" alt="canvas3" width="300" height="250">
 Canvas
 
 
