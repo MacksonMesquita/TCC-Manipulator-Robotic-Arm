@@ -1,7 +1,6 @@
 <meta charset="UTF-8">
-<hr>
 <h1 style="font-family:verdana; text-align:center; background-color:tomato; color:white">- Braço Robótico -</h1>
-<hr>
+
 
 
 ![imagem semelhante](https://images.tcdn.com.br/img/img_prod/751846/kit_braco_robotico_em_acrilico_2641_1_20201202141158.jpg)
