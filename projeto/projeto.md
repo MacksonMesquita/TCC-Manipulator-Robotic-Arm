@@ -45,7 +45,7 @@ Como parte do nosso trabalho de conclusão de curso, nos inscrevemos na feira de
 
 Onde fizemos um poster informativo, mas breve, a cerca do trabalho em questão.
 
-<img src="./imagens/poster.jpg" alt="poster" width="750" height="1000">
+<img src="./imagens/poster.PNG" alt="poster" width="750" height="1000">
 
 
 [Voltar para a página inicial](/readme.md)
