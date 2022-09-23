@@ -3,10 +3,10 @@
 ---
 ## Agosto:
 ### Semanas:
-2. Teste sobre o código novo de controle
-3. Implementação de funções
-4. Ajustando controle do robô
-5. Swot e inscrição na Bragantec    
+1. Teste sobre o código novo de controle
+2. Implementação de funções
+3. Ajustando controle do robô
+4. Swot e inscrição na Bragantec    
 
 
 ---
