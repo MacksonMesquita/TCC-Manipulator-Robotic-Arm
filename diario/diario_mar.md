@@ -59,6 +59,8 @@ Como resultado de nosso trabalho, também precisamos atualizar nossos documentos
 
 No dia 28 de março, realizamos uma apresentação para o professor e para os outros representantes de seus respectivos projetos, apresentando o que tínhamos criado até o momento em questão.
 
+---
+
 Obs.: É importante lembrar que é apenas um protótipo e por isso não estamos fazendo em uma escala maior, todavia, para uma maior funcionalidade e aproveitamento seria necessário uma maquina industrial.
 
 ---
