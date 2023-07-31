@@ -13,11 +13,17 @@
 ## Semana 1:
 ### Criação digital do protótipo:
 
-Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada um iriam realizar. Desse modo o time foi decidio e será formado por 3 integrantes, separados por dois subgrupos cujas funções eram divididas entre documentação e desenvolvimento.
+Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada um iriam realizar. 
+Desse modo o time foi decidio e será formado por 3 integrantes, separados por dois subgrupos cujas funções eram divididas entre documentação e desenvolvimento.
 Após isso, era necessario criar um nome que seria utilizado exclusivamente para se referir ao mesmo, evitando assim a repetição do titulo. 
 Dentre os varios temas e inumeras ideias de projetos, o assunto escolhido foi para ajudar o meio ambiente, utilizando uma garra robótica para coletar resíduos tóxicos principalmente lixo hospitalar. O objetivo desse robô é utilizá-lo para limpar sem o contato direto com algum resíduo prejudicial a saúde mantendo a distância e a proteção dos tóxicos.
 
-Em relação ao protótipo visual, usando a plataforma tinkercad, realizamos um exemplar digital da garra, utilizando arduíno e servos motores. O objetivo era representar a garra em pleno funcionamento de modo simplificado para facilitar a visão e compreensão do funcionamento dos motores, que servirão não só de base mas de apoio na hora de passar o conteúdo para o meio físico.
+![Foto da Garra](./imagens/garra01_fev.jpeg)
+![Foto da Garra](./imagens/garra02_fev.jpeg)
+
+Em relação ao protótipo visual, usando a plataforma tinkercad, realizamos um exemplar digital da garra, utilizando arduíno e servos motores. 
+O objetivo era representar a garra em pleno funcionamento de modo simplificado para facilitar a visão e compreensão do funcionamento dos motores, 
+que servirão não só de base mas de apoio na hora de passar o conteúdo para o meio físico.
 
 <center>
 
@@ -52,6 +58,8 @@ Como resultado de nosso trabalho, também precisamos atualizar nossos documentos
 ### Apresentação do trabalho:
 
 No dia 28 de março, realizamos uma apresentação para o professor e para os outros representantes de seus respectivos projetos, apresentando o que tínhamos criado até o momento em questão.
+
+Obs.: É importante lembrar que é apenas um protótipo e por isso não estamos fazendo em uma escala maior, todavia, para uma maior funcionalidade e aproveitamento seria necessário uma maquina industrial.
 
 ---
 
