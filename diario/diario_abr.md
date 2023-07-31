@@ -4,7 +4,8 @@
 ## Abril:
 ### Semanas:
 1. Testes e avaliações das fontes escolhidas para a fase de testes do braço robótica         
-3. Levantamento orçamental a respeito das peças que serão utilizadas e pesquisas de artigos científicos para embasamento do trabalho final        
+2. Levantamento orçamental a respeito das peças que serão utilizadas e pesquisas de artigos científicos para embasamento do trabalho final
+3. Conseguindo Garra / Problemas Técnicos        
 
 
 ---
@@ -26,6 +27,13 @@ Na primeira semana, tivemos como assentamento do projeto, a pesquisa e a realiza
 
 Na segunda semana, levantamos o orçamento das fontes, apenas por questões de pesquisa, e tambem realizamos pesquisas em sites de artigos científicos para um embasamento em relação ao trabalho final de documentação.          
 
+---
+
+## Semana 3:
+### Conseguindo Garra / Problemas Técnicos
+
+Conversamos com o professor que está nos instruindo na matéria do TCC e ele nos disponibilizou uma garra que estava sem uso e disponível.
+Entretanto era preciso fazer a parte técnica da programação, além de trocar as varias peças que estavam em um estado abaixo do desejado.    
 
 ---
 
