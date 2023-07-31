@@ -15,6 +15,8 @@ O robô em questão terá o objetivo de se movimentar e coletar os materiais noc
 Como diz Mancilha (2005), um protótipo robótico é multifuncional, controlado por computador, pois consegue-se realizar esse tipo de tarefa que é perigoso para o contato humano.
 Com a intenção de realizar essa tarefa, o grupo incluiu as várias tecnologias utilizáveis no projeto, para a produção do braço agregamos as nossas tecnologias:
  Arduino, decks de pilha, fontes geradoras de energias, driver, peças metálicas, servos motores etc.
+
+ Como pode ser notado, tivemos uma grande base vinda de artigos cinetíficos gratuitos e encontrados livremente pela internet, alem de livros e informações privadas
  
  ---
  
