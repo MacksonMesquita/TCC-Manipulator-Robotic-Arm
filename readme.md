@@ -25,12 +25,9 @@ Trabalho do 3 ano D, referente ao desenvolvimento do braço robótico (Manipulad
 
 ## Nomes dos integrantes:                            
 
-* Mackson da Rocha Mesquita - Gerente de documentação 
+* Mackson da Rocha Mesquita - Gerente de documentação e auxiliar de Desenvolvimento
 
-* Matheus Ventura Barbosa - Gerente da programação e análise de desenvolvimento                   
-
-* Igor Vinicius Gonçalves de Souza
-
+* (nome dos outros membros preservados em confidencialidade) 
 ---
 
 ## Resumo do Projeto:
@@ -53,7 +50,7 @@ Este projeto foi feito no ano de 2022, durante a pandemia causada pelo covid-19
 
 ---
 ### Attention most of the contents found here will be in Portuguese (Brazil)
-### but here is a resume about the project
+### but here is a resume about the project 👇
 ---
 
 When it comes to Systems Development, there are countless areas in which we can
