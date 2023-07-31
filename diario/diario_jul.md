@@ -15,7 +15,7 @@
 <h2>&#129154 Nova Atualização na interface:</h2>
 
 Devido as recentes mudanças no código, precisamos atualizar as interfaces gráficas, gerando assim um novo design muito mais abrangente e interativo, aplicando e testando no projeto físico, tornando-o mais dinâmico. 
-Entre todas as interações, nossos codigos vem sendo constantemente atualizados e testados; Atualmente, contamos com mais de 300 linhas de código que compõem o físico e a parte gráfica da interface de controle.                
+Entre todas as interações, nossos codigos vem sendo constantemente atualizados e testados; Atualmente, contamos com mais de 300 linhas de código que compõem o físico e a parte gráfica da interface de controle, divididos e organizados em pastas e subpastas.                
 
 
 ---
