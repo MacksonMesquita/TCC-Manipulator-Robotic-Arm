@@ -6,7 +6,7 @@
 1. Teste sobre o código novo de controle
 2. Implementação de funções
 3. Ajustando controle do robô
-4. Swot e inscrição na Bragantec    
+4. Swot e inscrição na Bragantec e resultados obtidos na mesma    
 
 
 ---
@@ -37,7 +37,11 @@ Como dito antes, em fase final, resta apenas realizar procedimentos de configura
 
 Planejamos e Criamos um  projeto Swot baseando-se no modelo Canvas para ter uma visão melhor sobre o projeto, retomando os conceitos para sua criação, o que causará um aumento na qualidade e gestão do projeto e do tempo.
 
-Para finalizarmos o mês de Agosto, terminamos a nossa nos candidatamos para a feira de ciências e tecnologia de Bragança (Bragantec) e estamos finalizando os processos da inscrição.    
+Para encerrar a semana e nos prepararmos para as apresentações que seriam nos meses subsequentes, realizamos a inscrição através da orientação de nosso professor, na feira de ciências e tecnologia de Bragança (Bragantec)
+
+* Em uma de nossas considerações finais, durante os dias que sucederam as apresentações na feira de ciências Bragantec, Ficamos em terceiro lugar na categoria de engenharia e tecnologia em geral. As apresnetações duraram três dias, oa quais sussecivamente, tivemos apresentações e concorremos com mais de 150 projetos e 5 escolas pelos titulos que se encontravam no local. De modo geral, o projeto foi muito bem recebido, tanto por parte do público livre, quanto por parte dos professores de todas as escolas e os avaliadores presentes no local.
+
+* Das categorias presentes, concorremos em duas, das quais os resultados foram ditos anteriormente, e embora o grupo todo não estivesse presente no dia da premiação, fomos bem avaliados e conceituados, principalmente por parte do público livre, que tambem exercia forte presença na votação(votação livre). 
 
 ---
 
