@@ -47,5 +47,13 @@ Onde fizemos um poster informativo, mas breve, a cerca do trabalho em questão.
 
 <img src="./imagens/poster.PNG" alt="poster" width="750" height="1000">
 
+## Considerações e resultados
+
+Em uma de nossas considerações finais, durante os dias que sucederam as apresentações na feira de ciências Bragantec, Ficamos em terceiro lugar na categoria de engenharia
+e tecnologia em geral. 
+As apresnetações duraram três dias, oa quais sussecivamente, tivemos apresentações e concorremos com mais de 150 projetos e 5 escolas pelos titulos 
+que se encontravam no local. De modo geral, o projeto foi muito bem recebido, tanto por parte do público livre, quanto por parte dos professores de todas as escolas e os avaliadores presentes no local. 
+
+Das categorias presentes, concorremos em duas, das quais os resultados foram ditos anteriormente, e embora o grupo todo não estivesse presente no dia da premiação, fomos bem avaliados e conceituados, principalmente por parte do público livre, que tambem exercia forte presença na votação(votação livre).
 
 [Voltar para a página inicial](/readme.md)
