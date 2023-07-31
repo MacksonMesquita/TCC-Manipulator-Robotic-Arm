@@ -14,9 +14,13 @@
 ### Criação digital do protótipo:
 
 Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada um iriam realizar. 
-Desse modo o time foi decidio e será formado por 3 integrantes, separados por dois subgrupos cujas funções eram divididas entre documentação e desenvolvimento.
-Após isso, era necessario criar um nome que seria utilizado exclusivamente para se referir ao mesmo, evitando assim a repetição do titulo. 
-Dentre os varios temas e inumeras ideias de projetos, o assunto escolhido foi para ajudar o meio ambiente, utilizando uma garra robótica para coletar resíduos tóxicos principalmente lixo hospitalar. O objetivo desse robô é utilizá-lo para limpar sem o contato direto com algum resíduo prejudicial a saúde mantendo a distância e a proteção dos tóxicos.
+Desse modo o time foi decidido e será formado por 3 integrantes, separados por dois subgrupos cujas funções eram divididas entre documentação e desenvolvimento.
+Após isso, era necessario criar um nome que seria utilizado exclusivamente para se referir ao mesmo, evitando assim a repetição do titulo.
+
+Dentre os vários temas e inúmeras ideias de projetos, o assunto escolhido foi para ajudar o meio ambiente, 
+utilizando uma garra robótica para coletar resíduos tóxicos principalmente lixo hospitalar. 
+O objetivo desse robô é utilizá-lo para limpar sem o contato direto com algum resíduo prejudicial a saúde mantendo a distância e a proteção dos tóxicos.
+
 
 ![Foto da Garra](./imagens/garra01_fev.jpeg)
 ![Foto da Garra](./imagens/garra02_fev.jpeg)
