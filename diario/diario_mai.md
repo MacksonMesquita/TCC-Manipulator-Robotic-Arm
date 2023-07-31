@@ -27,7 +27,10 @@ Durante a segunda semana, utilizamos o driver para limitar a quantidade de energ
 ## Semana 3:
 ### Atualização da interface de interação:
 
-Durante a segunda quinzena, reformulações e atualizações na interface de interação foram feitas, atualizações essas que trarão melhor viabilidade e facilidade na comunicação com o usuário, novas formas de visibilidade foram implementadas para que o usuário seja capaz de entender de forma prática e simples, todas as questões que englobam o pleno funcionamento do braço.                        
+Durante a segunda quinzena, reformulações e atualizações na interface de interação foram feitas, atualizações essas que trarão melhor viabilidade e facilidade na comunicação com o usuário, novas formas de visibilidade foram implementadas para que o usuário seja capaz de entender de forma prática e simples, todas as questões que englobam o pleno funcionamento do braço.
+
+É importante lembrar que durante as atualizações de sistema, tivemos inumeros problemas de conexões e tivemos que recorrer a alguns periodos de dias fora de trabalho,
+afim de pesquisar melhor sobre os problemas enfrentados, que em sua maioria estavam relacionados ao script feito, que movimentava a garra nas direções propostas e estabelecia a conexão da linguagem python com a do arruíno.
 
 ![Menu Atualizado](./imagens/menuatt.png)
 
