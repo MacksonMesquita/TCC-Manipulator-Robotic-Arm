@@ -3,16 +3,21 @@
 ---
 ## Março:
 ### Semanas:
-1. Criação digital do protótipo (Embasamento) 
+1. Definição do tema e grupos Criação digital do protótipo (Embasamento)
+2. Pesquisa de material e criação digital do protótipo (Embasamento)
 3. Início da criação da Interface Controladora da garra
-4. Atualização de documentos
+4. 4. Atualização de documentos
 5. Apresentação do trabalho para o professor reitor do projeto
 
 ---
 ## Semana 1:
 ### Criação digital do protótipo:
 
-Usando a plataforma tinkercad, realizamos um exemplar digital da garra, utilizando arduíno e servos motores. O objetivo era representar a garra em pleno funcionamento de modo simplificado para facilitar a visão e compreensão do funcionamento dos motores, que servirão não só de base mas de apoio na hora de passar o conteúdo para o meio físico.
+Durante as primeiras semanas do projeto, era preciso decidir o grupo e identificar as tarefas que cada um iriam realizar. Desse modo o time foi decidio e será formado por 3 integrantes, separados por dois subgrupos cujas funções eram divididas entre documentação e desenvolvimento.
+Após isso, era necessario criar um nome que seria utilizado exclusivamente para se referir ao mesmo, evitando assim a repetição do titulo. 
+Dentre os varios temas e inumeras ideias de projetos, o assunto escolhido foi para ajudar o meio ambiente, utilizando uma garra robótica para coletar resíduos tóxicos principalmente lixo hospitalar. O objetivo desse robô é utilizá-lo para limpar sem o contato direto com algum resíduo prejudicial a saúde mantendo a distância e a proteção dos tóxicos.
+
+Em relação ao protótipo visual, usando a plataforma tinkercad, realizamos um exemplar digital da garra, utilizando arduíno e servos motores. O objetivo era representar a garra em pleno funcionamento de modo simplificado para facilitar a visão e compreensão do funcionamento dos motores, que servirão não só de base mas de apoio na hora de passar o conteúdo para o meio físico.
 
 <center>
 
