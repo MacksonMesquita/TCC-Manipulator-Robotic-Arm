@@ -56,4 +56,9 @@ que se encontravam no local. De modo geral, o projeto foi muito bem recebido, ta
 
 Das categorias presentes, concorremos em duas, das quais os resultados foram ditos anteriormente, e embora o grupo todo não estivesse presente no dia da premiação, fomos bem avaliados e conceituados, principalmente por parte do público livre, que tambem exercia forte presença na votação(votação livre).
 
+---
+### Atenção ❗ Por motivos de Privacidade e acordos escolares, não podemos postar o código usado durante o projeto
+
+---
+
 [Voltar para a página inicial](/readme.md)
