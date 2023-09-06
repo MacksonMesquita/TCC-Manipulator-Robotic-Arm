@@ -46,7 +46,7 @@ No terceiro ano letivo da escola de ensino técnico integrado ao médio do estad
 
 A máquina terá como principal objetivo, manipular remotamente e com segurança os resíduos indesejáveis pelo usuário atendendo a necessidade eminente de limpeza e despojos dos mesmos. Os manipuladores robóticos são constantemente utilizados para a realização de várias tarefas, principalmente nas indústrias, que utilizam muito a tecnologia para a automação de sistemas e tarefas perigosas realizadas por pessoas comuns, nesse caso sempre se obtém uma melhora na qualidade dos produtos, agilidade, confiabilidade e precisão das tarefas empregadas. 
 
-Este projeto foi feito no ano de 2022, durante a pandemia causada pelo covid-19 
+> Este projeto foi feito no ano de 2022, durante a pandemia causada pelo covid-19 
 
 ---
 ### Attention most of the contents found here will be in Portuguese (Brazil)
@@ -66,4 +66,4 @@ In the third academic year of the technical teaching school integrated to the me
 
 The machine's main objective will be to remotely and safely handle unwanted waste by the user, meeting the imminent need for cleaning and disposal thereof. Robotic manipulators are constantly used to perform various tasks, mainly in industries, which use technology a lot to automate systems and dangerous tasks performed by ordinary people, in which case there is always an improvement in product quality, agility, reliability and accuracy of the tasks employed.
 
-This project is made in 2022, during the pandemic caused by covid-19
+> This project is made in 2022, during the pandemic caused by covid-19
